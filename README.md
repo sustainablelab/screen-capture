@@ -58,4 +58,9 @@ Use it however you want.
 
 # Repo links
 ## Link to this repo
+https://github.com/sustainablelab/screen-capture
+
 ## Clone this repo
+```bash
+git clone https://github.com/sustainablelab/screen-capture.git
+```
