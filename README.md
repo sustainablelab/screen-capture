@@ -2,6 +2,7 @@
 
 ## Table of contents
 - [Tasklist](#markdown-header-tasklist)
+- [Repo links](#markdown-header-repo-links)
 -
 ---e-n-d---
 
@@ -64,3 +65,7 @@ https://github.com/sustainablelab/screen-capture
 ```bash
 git clone https://github.com/sustainablelab/screen-capture.git
 ```
+
+## Links to software
+> https://shotcut.org/download/
+> https://obsproject.com/
